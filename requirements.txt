@@ -21,3 +21,4 @@ game_overlay_sdk
 fps_inspector_sdk
 screen_recorder_sdk
 keyboard
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
